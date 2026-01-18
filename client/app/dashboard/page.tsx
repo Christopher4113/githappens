@@ -23,12 +23,12 @@ export default function DashboardPage() {
       embedUrl: "https://app.amplitude.com/analytics/share/a51087d7d47645d1b07b6828e125b7a9",
     },
     {
-      title: "Clicks and UI interactions",
-      embedUrl: "https://app.amplitude.com/analytics/share/7e40c42027124fae8b7885f274f6bc4b",
+      title: "Time spent on checkout",
+      embedUrl: "https://app.amplitude.com/analytics/share/386a94bef7f648c28b51b5d2859098bf",
     },
     {
-      title: "Funnels and conversion",
-      embedUrl: "https://app.amplitude.com/analytics/share/af6ff9a830d944398a5ce7997cb36846",
+      title: "Number of visits vs number of purchases",
+      embedUrl: "https://app.amplitude.com/analytics/share/3a258936eb1145b49572f5daa501034c",
     },
     {
       title: "Pricing tier at time of event",
