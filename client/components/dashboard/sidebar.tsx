@@ -1,7 +1,7 @@
 "use client"
 
 import { cn } from "@/lib/utils"
-import { LayoutDashboard, Route, Sparkles, RefreshCcw, Zap } from "lucide-react"
+import { LayoutDashboard, Route, Sparkles, RefreshCcw, Zap, Brain } from "lucide-react"
 
 interface SidebarProps {
   activeTab: string
@@ -10,6 +10,7 @@ interface SidebarProps {
 
 const navItems = [
   { id: "overview", label: "Overview", icon: LayoutDashboard },
+  { id: "profile", label: "Profile Scan", icon: Brain },
   { id: "journey", label: "Shopper Journey", icon: Route },
   { id: "incentives", label: "Incentive Engine", icon: Sparkles },
   { id: "feedback", label: "Feedback Loop", icon: RefreshCcw },
