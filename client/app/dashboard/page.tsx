@@ -15,14 +15,6 @@ export default function DashboardPage() {
 
   const charts = [
     {
-      title: "Sessions and time on site",
-      embedUrl: "https://app.amplitude.com/analytics/share/8e6da5c8732a48cd8c13eac1f716534b",
-    },
-    {
-      title: "Page views and navigation",
-      embedUrl: "https://app.amplitude.com/analytics/share/a51087d7d47645d1b07b6828e125b7a9",
-    },
-    {
       title: "Time spent on checkout",
       embedUrl: "https://app.amplitude.com/analytics/share/386a94bef7f648c28b51b5d2859098bf",
     },
@@ -32,7 +24,7 @@ export default function DashboardPage() {
     },
     {
       title: "Pricing tier at time of event",
-      embedUrl: "https://app.amplitude.com/analytics/share/4df13816c0da4ebe9b208e2691343827",
+      embedUrl: "https://app.amplitude.com/analytics/share/426baf86e1f744abb64f34419a4ee552",
     },
   ]
 
