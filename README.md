@@ -44,7 +44,7 @@ Think of it as a **"Behavioral Detective"** 🕵️ that reasons through each ac
 
 ## Demo
 
-- [@Demo](https://vimeo.com/1157108461?share=copy&fl=sv&fe=ci)
+- [@Demo](https://vimeo.com/1157108461)
 
 ---
 
